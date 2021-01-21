@@ -1,4 +1,4 @@
-#[DASH TEST]
+# [DASH TEST]
 
     dash 사용법을 익히기 위해 생성한 project
     
